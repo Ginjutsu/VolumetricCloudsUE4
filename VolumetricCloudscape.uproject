@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.15",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "TrueSkyPlugin",
+			"Enabled": true
+		}
+	]
 }
